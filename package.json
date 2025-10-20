@@ -1,0 +1,24 @@
+{
+  "name": "test-driven-development_it23231528",
+  "version": "1.0.0",
+  "description": "Take home activity - Test Driven Development\r Focus: Practice TDD by building small, testable slices of an e‑commerce platform. Follow Red → Green → Refactor for each requirement and produce short test logs / explanations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sashanka2001/Test-Driven-Development_IT23231528.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sashanka2001/Test-Driven-Development_IT23231528/issues"
+  },
+  "homepage": "https://github.com/Sashanka2001/Test-Driven-Development_IT23231528#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
